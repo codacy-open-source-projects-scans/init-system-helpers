@@ -81,7 +81,7 @@ ENVIRONMENT
 SEE ALSO
 ========
 
-| */etc/init.d/skeleton*
+| ``init-d-script``\(5\)
 | ``update-rc.d``\(8\)
 | ``init``\(8\)
 | ``invoke-rc.d``\(8\)

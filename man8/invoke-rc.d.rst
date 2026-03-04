@@ -217,7 +217,7 @@ SEE ALSO
 ========
 
 | *Debian Policy manual*,
-| ``/etc/init.d/skeleton``,
+| ``init-d-script``\(5\),
 | ``update-rc.d``\(8\),
 | ``init``\(8\),
 | ``/usr/share/doc/init-system-helpers/README.policy-rc.d.gz``

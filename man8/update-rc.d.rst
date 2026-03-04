@@ -237,13 +237,10 @@ FILES
     The directories containing the links used by ``init``
     and managed by ``update-rc.d .``
 
-``/etc/init.d/skeleton``
-    Model for use by writers of ``init.d`` scripts.
-
 SEE ALSO
 ========
 
 | *Debian Policy Manual*,
-| ``/etc/init.d/skeleton``,
+| ``init-d-script``\(5),
 | ``insserv``\(8),
 | ``init``\(8)
